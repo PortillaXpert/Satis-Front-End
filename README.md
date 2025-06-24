@@ -46,7 +46,7 @@ Prisma CLI
 <h2 id="installation">Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/satis-app.git</code></pre>
+    <pre><code>git clone https://github.com/PortillaXpert/Satis-Front-End.git</code></pre>
   </li>
   <li>Navigate into the project directory:
     <pre><code>cd satis-app</code></pre>
